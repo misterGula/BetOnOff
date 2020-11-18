@@ -18,3 +18,10 @@ header .navbar-brand{
 .logo_mod_off{
     color: blue;
 }
+.card h5{
+    font-size: 30px;
+    text-align: center;
+}
+.card-body {
+    background-image: url(img/flip480_320.jpg);
+}
