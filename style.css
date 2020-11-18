@@ -21,7 +21,13 @@ header .navbar-brand{
 .card h5{
     font-size: 30px;
     text-align: center;
+    font-weight: 600;
 }
 .card-body {
-    background-image: url(img/flip480_320.jpg);
+    background-image: url(img/flip_2.jpg);
+    color: #fff;
+    height: 320px;
+}
+.card-body p {
+    margin-left: 12%;
 }
